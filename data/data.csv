@@ -1,46 +1,52 @@
-table,project,sponsors,link,,,judge 1,judge 2
-1,Storm Side Social,,http://hackisu-s16.devpost.com/submissions/48377-storm-side-social,,,,
-2,Myth of Link,,http://hackisu-s16.devpost.com/submissions/48378-myth-of-link,,,,
-3,LunchBuddies,"Best Domain.com Hack, Best Use of Cloud Computing by Workiva",http://hackisu-s16.devpost.com/submissions/48379-lunchbuddies,,,,
-4,CyDriver,,http://hackisu-s16.devpost.com/submissions/48381-cydriver,,,,
-5,Undetermined,,http://hackisu-s16.devpost.com/submissions/48382-undetermined,,,,
-6,RideWithTwitch,Best Internet of Things Hack by Vermeer,http://hackisu-s16.devpost.com/submissions/48384-ridewithtwitch,,,,
-7,BB-State,,http://hackisu-s16.devpost.com/submissions/48385-bb-state,,,,
-8,GarbageCollection,,http://hackisu-s16.devpost.com/submissions/48386-garbagecollection,,,,
-9,The River Radio Streaming App,,http://hackisu-s16.devpost.com/submissions/48387-the-river-radio-streaming-app,,,,
-10,Typo,,http://hackisu-s16.devpost.com/submissions/48446-typo,,,,
-11,Advanced Basketball Statistics,,http://hackisu-s16.devpost.com/submissions/48491-advanced-basketball-statistics,,,,
-12,Glimpse,Best Domain.com Hack,http://hackisu-s16.devpost.com/submissions/48501-glimpse,,,,
-13,89.7 The River,,http://hackisu-s16.devpost.com/submissions/48503-89-7-the-river,,,,
-14,Focus,,http://hackisu-s16.devpost.com/submissions/48524-focus,,,,
-15,BookMe,,http://hackisu-s16.devpost.com/submissions/48539-bookme,,,,
-16,word.Hack,,http://hackisu-s16.devpost.com/submissions/48593-word-hack,,,,
-17,Follow Me,Best Healthcare or Wellness Hack by Optum,http://hackisu-s16.devpost.com/submissions/48608-follow-me,,,,
-18,Monster Field,,http://hackisu-s16.devpost.com/submissions/48610-monster-field,,,,
-19,Math Machine,,http://hackisu-s16.devpost.com/submissions/48613-math-machine,,,,
-20,Pro-Bot,,http://hackisu-s16.devpost.com/submissions/48623-pro-bot,,,,
-21,Eavesdrop,,http://hackisu-s16.devpost.com/submissions/48636-eavesdrop,,,,
-22,Botline Bling,,http://hackisu-s16.devpost.com/submissions/48643-botline-bling,,,,
-23,Encryption App,,http://hackisu-s16.devpost.com/submissions/48645-encryption-app,,,,
-24,TaskIt,Best Use of GForge API,http://hackisu-s16.devpost.com/submissions/48662-taskit,,,,
-25,Blackboard Binder,"Best Github Developer Tool, Best Use of Cloud Computing by Workiva",http://hackisu-s16.devpost.com/submissions/48668-blackboard-binder,,,,
-26,Kamport,Best Internet of Things Hack by Vermeer,http://hackisu-s16.devpost.com/submissions/48749-kamport,,,,
-27,populeyes,Best Use of GForge API,http://hackisu-s16.devpost.com/submissions/48761-populeyes,,,,
-28,KewbApp,,http://hackisu-s16.devpost.com/submissions/48864-kewbapp,,,,
-29,Syllabot,,http://hackisu-s16.devpost.com/submissions/48868-syllabot,,,,
-30,RhymeIt,,http://hackisu-s16.devpost.com/submissions/48880-rhymeit,,,,
-31,DiffCloud,,http://hackisu-s16.devpost.com/submissions/48883-diffcloud,,,,
-32,Foodie,,http://hackisu-s16.devpost.com/submissions/48905-foodie,,,,
-33,Awesome Squares,,http://hackisu-s16.devpost.com/submissions/48910-awesome-squares,,,,
-34,FallWatch,Best Healthcare or Wellness Hack by Optum,http://hackisu-s16.devpost.com/submissions/48914-fallwatch,,,,
-35,Twohy's Photo Mosaic Creator,,http://hackisu-s16.devpost.com/submissions/48921-twohy-s-photo-mosaic-creator,,,,
-36,Restaurant Roulette,,http://hackisu-s16.devpost.com/submissions/48938-restaurant-roulette,,,,
-37,assembly,,http://hackisu-s16.devpost.com/submissions/48940-assembly,,,,
-38,Combining IoT with Crowdsourcing in Disaster Response,Best Internet of Things Hack by Vermeer,http://hackisu-s16.devpost.com/submissions/48941-combining-iot-with-crowdsourcing-in-disaster-response,,,,
-39,Spellin' Be,,http://hackisu-s16.devpost.com/submissions/48942-spellin-be,,,,
-40,Project Icarus,,http://hackisu-s16.devpost.com/submissions/48952-project-icarus,,,,
-41,Cloudy with a Chance of Data,Best Internet of Things Hack by Vermeer,http://hackisu-s16.devpost.com/submissions/48955-cloudy-with-a-chance-of-data,,,,
-42,Moments,,http://hackisu-s16.devpost.com/submissions/48957-moments,,,,
-43,MRPi,,http://hackisu-s16.devpost.com/submissions/48960-mrpi,,,,
-44,Tumbleweed,,http://hackisu-s16.devpost.com/submissions/48963-tumbleweed,,,,
-45,Hackisu-s16-cuteception,,http://hackisu-s16.devpost.com/submissions/48965-hackisu-s16-cuteception,,,,
+table,project,sponsors,url
+1,Machine Learning - First Steps,,http://hackisu-f16.devpost.com/submissions/56962-machine-learning-first-steps
+2,ScrapForCash,,http://hackisu-f16.devpost.com/submissions/56963-scrapforcash
+3,Synesthesia,,http://hackisu-f16.devpost.com/submissions/56964-synesthesia
+4,Holothon,,http://hackisu-f16.devpost.com/submissions/56965-holothon
+5,Text adventure of awesomeness,,http://hackisu-f16.devpost.com/submissions/56966-text-adventure-of-awesomeness
+6,oprah,,http://hackisu-f16.devpost.com/submissions/56967-oprah
+7,H.U.S.T.L.E.,,http://hackisu-f16.devpost.com/submissions/56968-h-u-s-t-l-e
+8,Health.IO,,http://hackisu-f16.devpost.com/submissions/56969-health-io
+9,Dronie,,http://hackisu-f16.devpost.com/submissions/56970-dronie
+10,BrainStorm,,http://hackisu-f16.devpost.com/submissions/56971-brainstorm
+11,Performers and Venues Hub,,http://hackisu-f16.devpost.com/submissions/56972-performers-and-venues-hub
+12,DestinationGraduation,,http://hackisu-f16.devpost.com/submissions/56973-destinationgraduation
+13,NewBot,,http://hackisu-f16.devpost.com/submissions/56974-newbot
+14,Notestradamus,,http://hackisu-f16.devpost.com/submissions/56975-notestradamus
+15,CarTracker,,http://hackisu-f16.devpost.com/submissions/56976-cartracker
+16,AllWatch,,http://hackisu-f16.devpost.com/submissions/56977-allwatch
+17,GForge Chat,,http://hackisu-f16.devpost.com/submissions/56978-gforge-chat
+18,LyricProf,,http://hackisu-f16.devpost.com/submissions/56981-lyricprof
+19,Runin,,http://hackisu-f16.devpost.com/submissions/57104-runin
+20,MLH SMACKDOWN RAW,,http://hackisu-f16.devpost.com/submissions/57107-mlh-smackdown-raw
+21,Procrasti,,http://hackisu-f16.devpost.com/submissions/57108-procrasti
+22,TaggedYourPic (TYP),,http://hackisu-f16.devpost.com/submissions/57111-taggedyourpic-typ
+23,Rate ISU,,http://hackisu-f16.devpost.com/submissions/57133-rate-isu
+24,hackReCaptcha,,http://hackisu-f16.devpost.com/submissions/57142-hackrecaptcha
+25,medicine prescription website,,http://hackisu-f16.devpost.com/submissions/57144-medicine-prescription-website
+26,MemeMarket,,http://hackisu-f16.devpost.com/submissions/57169-mememarket
+27,Pantri,,http://hackisu-f16.devpost.com/submissions/57197-pantri
+28,Twitch Plays Dungeons & Dragons,,http://hackisu-f16.devpost.com/submissions/57203-twitch-plays-dungeons-dragons
+29,ISUHackathon16,,http://hackisu-f16.devpost.com/submissions/57214-isuhackathon16
+30,The Apocolypse,,http://hackisu-f16.devpost.com/submissions/57218-the-apocolypse
+31,Bad Apples Against Humanity,,http://hackisu-f16.devpost.com/submissions/57220-bad-apples-against-humanity
+32,WebGL Wrapper for JavaScript,,http://hackisu-f16.devpost.com/submissions/57230-webgl-wrapper-for-javascript
+33,Twohy's Lazer Harp,,http://hackisu-f16.devpost.com/submissions/57240-twohy-s-lazer-harp
+34,Aye Aye Caption,,http://hackisu-f16.devpost.com/submissions/57243-aye-aye-caption
+35,Excuser,,http://hackisu-f16.devpost.com/submissions/57253-excuser
+36,prep4.tech,,http://hackisu-f16.devpost.com/submissions/57254-prep4-tech
+37,Amputee Mouse,,http://hackisu-f16.devpost.com/submissions/57274-amputee-mouse
+38,Holographic Zombie Survival Game,,http://hackisu-f16.devpost.com/submissions/57287-holographic-zombie-survival-game
+39,ourState,,http://hackisu-f16.devpost.com/submissions/57307-ourstate
+40,Hello Math,,http://hackisu-f16.devpost.com/submissions/57395-hello-math
+41,GamePlay,,http://hackisu-f16.devpost.com/submissions/57408-gameplay
+42,The Cantor Programming Language,,http://hackisu-f16.devpost.com/submissions/57443-the-cantor-programming-language
+43,CollegeCredit,,http://hackisu-f16.devpost.com/submissions/57454-collegecredit
+44,Hackathon the Game,,http://hackisu-f16.devpost.com/submissions/57462-hackathon-the-game
+45,FountainView,,http://hackisu-f16.devpost.com/submissions/57487-fountainview
+46,PocketWatch,,http://hackisu-f16.devpost.com/submissions/57491-pocketwatch
+47,Paintifai,,http://hackisu-f16.devpost.com/submissions/57493-paintifai
+48,Lightning Chemistry,,http://hackisu-f16.devpost.com/submissions/57495-lightning-chemistry
+49,A Game of Rhythm and Light,,http://hackisu-f16.devpost.com/submissions/57499-a-game-of-rhythm-and-light
+50,Talk Lock,,http://hackisu-f16.devpost.com/submissions/57500-talk-lock
+51,The WingMug,,http://hackisu-f16.devpost.com/submissions/57502-the-wingmug
